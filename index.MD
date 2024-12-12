@@ -1,5 +1,5 @@
 
-Aaliyah Luangkhot's Portfolio
+## Aaliyah Luangkhot's Portfolio
 
 I am a former computer science, now civil engineering major at CSUF and I plan on graduating in 2028.
 
